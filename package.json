@@ -1,0 +1,22 @@
+{
+  "name": "com.github.xahon.easy-scene-switcher",
+  "version": "0.0.1",
+  "displayName": "Easy Scene Switcher",
+  "description": "A simple scene switcher for Unity",
+  "unity": "2019.4",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://github.com/xahon/Easy-Scene-Switcher-For-Unity",
+  "changelogUrl": "https://github.com/xahon/Easy-Scene-Switcher-For-Unity",
+  "licensesUrl": "https://github.com/xahon/Easy-Scene-Switcher-For-Unity",
+  "keywords": [
+    "scene",
+    "management",
+    "utils",
+    "tools"
+  ],
+  "author": {
+    "name": "Xahon",
+    "email": "chernikov.i123@gmail.com",
+    "url": "https://github.com/xahon/Easy-Scene-Switcher-For-Unity"
+  }
+}
